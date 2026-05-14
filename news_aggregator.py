@@ -21,7 +21,7 @@ class NewsAggregator:
         self.root.minsize(1200, 700)
         
     
-        self.api_key = "20b99313efe341c795c4f6c059bdce11"  
+        self.api_key = "Add your API_KEY"  
         
         # Categories with their keywords
         self.categories = {
